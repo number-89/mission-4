@@ -4,6 +4,7 @@ class SanctuaryGateway {
     // 【指示】下の1行を自分のプロパティ定義を追加せよ！
     // 担当A: public bool $sunStone = true;
     // 担当B: public bool $moonStone = true;
+    public bool $sunStone = true;
     public string $placeholderStone = "NONE"; // ←これは残す
     // ==========================================
 
